@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 40 and why they'll be important to you as a data scientist.
+In this section, you'll be introduced to one of the most advanced machine learning algorithms in the world currently, neural networks! Here are the topics we'll be covering in this section.
 
 ## Objectives
 You will be able to:
@@ -17,10 +17,9 @@ The time has come to learn about one of the most exciting and fast-moving areas 
 
 In this section, you'll learn what it means when we talk about neural networks. You'll learn about the essential building blocks like "layers", "nodes", "arrows", "weights", "loss", "cost function", etc. You'll learn that a neural network general consists of several layers, and how a logistic regression model can be represented as a neural network with just one layer. You'll be able to explain what the advantages and disadvantages of using neural networks are, and get an insight of how forward and backward propagation are used in neural networks to minimize the loss and "optimize" your neural network.
 
-### Deeper Neural Networks
-
-With a focus on single-layer neural networks on the first half of this section, the second part of this section focuses on deeper neural networks. Additionally, you'll dive deeper into the use of activation functions in neural networks, and look at several candidate activation functions for your deep learning model.
+### Introduction to Keras
+You'll be introduced to Keras, open source neural network library in Python, which makes building neural networks surprisingly easy. Before building your first neural network model in Keras, you'll learn about tensors and why they are important when building deep learning models.
 
 ## Summary
 
-In this section, you'll learn the basics of recommendation systems and how to implement them in Spark!
+In this section, you'll learn the basics of neural networks and how to implement them in keras!
